@@ -2,7 +2,7 @@
   "name": "code2csv",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://www.code2csv.innovAtz.jp",
+  "homepage": "https://NagatsukiSep.github.io/code2csv",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
